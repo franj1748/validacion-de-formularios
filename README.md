@@ -16,7 +16,7 @@ Además, se integró [Sweet Alert](https://sweetalert.js.org/) para darle estilo
 
 La documentación, se generó automáticamente a través de comentarios con [JSDoc](https://jsdoc.app/). Desde este [enlace](https://github.com/franj1748/configuracion-jsdoc.git) puedes descargar los archivos de configuración listos para generar una documentación similar. 
 
-Visto en vivo del proyecto:
+Visto en vivo del proyecto: https://franj1748.github.io/validacion-de-formularios/
 
 ![simulador_correo](https://accesoweb.online/images/simulador_correo/simulador.png)
 
