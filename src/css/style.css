@@ -1,0 +1,23 @@
+body{
+    background-color: #f2f8fd;
+}
+
+.hide{
+    display: none;
+}
+
+.container{
+    padding: 0 15%;
+}
+
+.row .align-items-center {
+    background-color: #e7e5e5;
+}
+
+#mensaje{
+    height: 150px;
+}
+
+.fondoTitulo{
+    background-color: #2980B9;
+}
